@@ -1,6 +1,6 @@
 # Ivanna Alejandra Navas Barreto
 **Personal Information**
-<sub>Student of Data Science</sub>
-<sub>Universidad de La Sabana-Chía</sub>
+Student of Data Science
+Universidad de La Sabana-Chía
 **Contact**
-<sub>Ivannanb@unisabana.edu.co</sub>
+Ivannanb@unisabana.edu.co
